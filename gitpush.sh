@@ -8,6 +8,6 @@ git commit -m "vimrc files have been added "  # Bir commit oluşturun
 ssh -T git@github.com
 
 
-git remote set-url origin git@github.com:oraktan/firstSetup.git
+git remote set-url origin git@github.com:oraktan/videoDownload.git
 
 git push origin main  # Değişiklikleri GitHub'a yükleyin
